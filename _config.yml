@@ -90,6 +90,7 @@ JB :
     provider : google 
     google : 
         tracking_id : 'UA-4193296-7'
+        domain: geekhub.dk
     getclicky :
       site_id : 
     mixpanel :
