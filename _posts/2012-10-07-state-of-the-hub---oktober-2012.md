@@ -36,3 +36,6 @@ Det er lidt vildt hvor meget man kan få på så få linier kode.
 Se den fulde stat-dumb her:
 
 ![Stats fra rails]({{BASE_PATH}}/assets/2012-10/stats.png)
+
+## Afslutning
+Det var lige de stats jeg kunne finde på at vise. Hvis der er noget andet I kunne tænke jar at vide, så sig til :)
