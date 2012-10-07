@@ -16,3 +16,5 @@ tagline: og i det danske community
 </ul>
 </div>
 
+# Open Source
+Bloggen er open source. Alle posts osv. ligger på [Github](https://github.com/geekhubdk/geekhubdk.github.com).
